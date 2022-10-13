@@ -13,5 +13,6 @@ public class Exercise7 {
 
 		Map<String, List<Employee>> map = employees.stream().collect(Collectors.groupingBy(Employee::getName, Collectors.toList()));
 		System.out.println(map);
+		System.out.println("done on group");
 	}
 }
