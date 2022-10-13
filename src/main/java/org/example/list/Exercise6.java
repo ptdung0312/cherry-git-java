@@ -19,4 +19,7 @@ public class Exercise6 {
 				.collect(Collectors.joining(",", "[", "]"));
 		System.out.println(empName2);
 	}
+	public void name() {
+		System.out.println("print name");
+	}
 }
