@@ -16,4 +16,8 @@ public class Exercise1 {
 				.collect(Collectors.toList());
 		empNames.forEach(System.out::println);
 	}
+
+	public String getNAme() {
+		return "a";
+	}
 }
