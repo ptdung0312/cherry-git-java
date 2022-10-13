@@ -23,4 +23,5 @@ public class StreamGetListOfEmployees {
 	}
 	private String age;
 	private String name;
+	private String age;
 }
