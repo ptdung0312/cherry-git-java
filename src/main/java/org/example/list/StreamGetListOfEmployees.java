@@ -21,4 +21,5 @@ public class StreamGetListOfEmployees {
 
 		return listOfEmployees;
 	}
+	private String name;
 }
