@@ -7,6 +7,7 @@ public class Employee implements Comparable<Employee> {
 	private String name;
 	private int age;
 	private List<String> listOfCities;
+	private String test;
 
 	public Employee(String name, int age, List<String> listOfCities) {
 		this.name = name;
@@ -36,6 +37,14 @@ public class Employee implements Comparable<Employee> {
 
 	public void setListOfCities(List<String> listOfCities) {
 		this.listOfCities = listOfCities;
+	}
+
+	public String getTest() {
+		return test;
+	}
+
+	public void setTest(String test) {
+		this.test = test;
 	}
 
 	@Override
