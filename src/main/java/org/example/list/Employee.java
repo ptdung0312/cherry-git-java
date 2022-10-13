@@ -13,6 +13,7 @@ public class Employee implements Comparable<Employee> {
 		this.name = name;
 		this.age = age;
 		this.listOfCities = listOfCities;
+		System.out.println("hot fix 2");
 	}
 
 	public String getName() {
