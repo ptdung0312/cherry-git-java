@@ -17,6 +17,10 @@ public class Exercise1 {
 		empNames.forEach(System.out::println);
 	}
 
+	public void test1() {
+		System.out.println("test 1");
+	}
+
 	public String getNAme() {
 		return "a";
 	}
