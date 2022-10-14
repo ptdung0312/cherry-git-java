@@ -9,6 +9,6 @@ public class Reset1 {
 
 		System.out.println("reset 4");
 
-		System.out.println("reset 5");
+		System.out.println("reset 51");
 	}
 }
