@@ -22,5 +22,6 @@ public class SampleTest1 {
 
 	public static void main(String[] args) {
 		System.out.println("feature branch commit 1");
+		System.out.println("feature branch commit 2");
 	}
 }
