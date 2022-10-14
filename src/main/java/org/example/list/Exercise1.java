@@ -24,4 +24,8 @@ public class Exercise1 {
 	public String getNAme() {
 		return "a";
 	}
+
+	public String getAddress() {
+		return "HCM";
+	}
 }
