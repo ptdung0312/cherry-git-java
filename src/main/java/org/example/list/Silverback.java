@@ -5,5 +5,5 @@ public class Silverback {
 		System.out.println("Silverback -test");
 		System.out.println("manin 1");
 	}
-
+	private String name;
 }
