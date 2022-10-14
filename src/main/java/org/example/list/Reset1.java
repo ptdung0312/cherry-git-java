@@ -6,5 +6,7 @@ public class Reset1 {
 		System.out.println("reset 2");
 
 		System.out.println("reset 3 4");
+
+		System.out.println("reset 4");
 	}
 }
