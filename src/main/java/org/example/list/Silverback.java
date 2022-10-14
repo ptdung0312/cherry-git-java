@@ -6,4 +6,6 @@ public class Silverback {
 		System.out.println("manin 1");
 	}
 	private String name;
+
+	private String value;
 }
