@@ -19,4 +19,9 @@ public class SampleTest1 {
 	public void setEmail(String email) {
 		this.email = email;
 	}
+
+	public static void main(String[] args) {
+		System.out.println("feature branch commit 1");
+		System.out.println("feature branch commit 2");
+	}
 }
